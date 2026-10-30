@@ -40,7 +40,9 @@ Currently, I'm expanding into **React Native and Expo** while continuing to stre
 
 ### Mobile
 
-<img src="https://skillicons.dev/icons?i=reactnative,expo" alt="Mobile technologies" />
+<img src="https://skillicons.dev/icons?i=react,expo" alt="React Native and Expo" />
+
+<sub>React Native · Expo</sub>
 
 ### Backend & Tools
 
