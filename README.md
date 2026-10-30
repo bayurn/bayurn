@@ -80,20 +80,12 @@ A web application developed as my **academic capstone project**, focused on digi
 
 ## 📈 GitHub Activity
 
-I keep my public work and contributions on GitHub. You can explore my repositories and contribution history here:
+Explore my public repositories and contribution history:
 
-<div align="center">
+- **[Explore Repositories](https://github.com/bayurn?tab=repositories)** — projects and code
+- **[View Contributions](https://github.com/bayurn?tab=overview)** — contribution activity on my GitHub profile
 
-<a href="https://github.com/bayurn?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
-</a>
-<a href="https://github.com/bayurn?tab=overview">
-  <img src="https://img.shields.io/badge/View%20Contributions-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View contributions" />
-</a>
-
-</div>
-
-<sub>GitHub displays the contribution graph directly on my profile. This README avoids third-party statistics cards that may become unavailable.</sub>
+<sub>These are direct GitHub links, so this section does not depend on external badge or statistics image services.</sub>
 
 ---
 
